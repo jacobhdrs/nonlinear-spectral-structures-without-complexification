@@ -18,13 +18,13 @@ In particular, irreversibility is not interpreted as information loss; rather, i
 
 Furthermore, this study proposes a fully deterministic single-mapping system in which structure is generated through 'monotonic succession of order' within the environment of stage-indexed direct mappings.
 
-The system transforms the structure stage by stage through a pre-structure generation mapping and direct mappings mediated by natural number stage $n$ and internal variable $x$. Each stage begins from the same reference point, while each individual term is updated independently. After crystallization, the entire set of individual terms transitions from non-closed hierarchical coefficients and polynomials to scalar weight vectors, which then combine with spectral position coordinates to form Structural Torque.
+The system transforms the structure stage by stage through a pre-structure generation mapping and direct mappings mediated by natural number stage $n$ and internal variable $x$. Each stage begins from the same reference point, while each individual term is updated independently. After crystallization, the entire set of individual terms transitions from non-closed hierarchical coefficients and polynomials to scalar weight vectors, which then coupling with spectral position coordinates to form Structural Torque.
 
 The Structural Torque undergoes a gradual transformation process, generating a spectral shape. This shape, starting from the same reference point, is transformed through hierarchical nonlinear self-amplification as the stage progresses and approaches the upper boundary. The Structural Torque at each stage ultimately recovers global sum conservation at the point when all terms are completed.
 
 This global sum conservation is not an invariant maintained throughout the entire generation process, but rather a conservation state established after the completion of crystallization. After crystallization, the spectral structure possesses stability in which the internal hierarchical structure is maintained despite stage increases. The final spectrum constitutes a structural equilibrium state that simultaneously satisfies this structural stability and the conservation of the global sum.
 
-Therefore, this paper presents the generation mechanism of a nonlinear spectrum in which Structural Torque arises from irreversible crystallization, based on the combination of pre-structure generation mappings and direct mappings, and demonstrates that structural stabilization and global conservation are simultaneously established in the process.
+Therefore, this paper presents the generation mechanism of a nonlinear spectrum in which Structural Torque arises from irreversible crystallization, based on the combination of global-structure generating mappings and direct mappings, and demonstrates that structural stabilization and global conservation are simultaneously established in the process.
 
 
 <img width="544" height="904" alt="spectral figure" src="https://github.com/user-attachments/assets/9aa87a57-6172-4f2e-95e5-2b7da3d49042" />
