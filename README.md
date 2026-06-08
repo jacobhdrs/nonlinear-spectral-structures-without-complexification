@@ -6,4 +6,4 @@ Preprint and data for non-linear spectral structures without complexification (M
 
 
 
-"if you find this research on Non-linear Spectral Structures helpful, please leave a Star to support my independent work!"
+>If you find this research helpful, please leave a **Star (⭐)** to support my independent work! Your support helps sustain this research outside traditional institutions.
