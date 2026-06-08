@@ -30,5 +30,7 @@ Therefore, this paper presents the generation mechanism of a nonlinear spectrum 
 <img width="544" height="904" alt="spectral figure" src="https://github.com/user-attachments/assets/9aa87a57-6172-4f2e-95e5-2b7da3d49042" />
 
 
+# Contact
+- **Jacob Hendrix** (Independent Researcher / First Author): `jacobhdrs [at] gmail.com`
 
 >If you find this research helpful, please leave a **Star (⭐)** to support my independent work! Your support helps sustain this research outside traditional institutions.
