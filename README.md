@@ -31,6 +31,6 @@ Therefore, this paper presents the generation mechanism of a nonlinear spectrum 
 
 
 # Contact
-- **Jacob Hendrix** (Independent Researcher / First Author): `jacobhdrs [at] gmail.com`
+- **Jacob Hendrix** (Independent Researcher / First Author): `jacobhdrs [at] gmail [dot] com`
 
 >If you find this research helpful, please leave a **Star (⭐)** to support my independent work! Your support helps sustain this research outside traditional institutions.
