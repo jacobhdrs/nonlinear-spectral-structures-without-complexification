@@ -26,7 +26,9 @@ This global sum conservation is not an invariant maintained throughout the entir
 
 Therefore, this paper presents the generation mechanism of a nonlinear spectrum in which Structural Torque arises from irreversible crystallization, based on the combination of pre-structure generation mappings and direct mappings, and demonstrates that structural stabilization and global conservation are simultaneously established in the process.
 
+
 <img width="544" height="904" alt="spectral figure" src="https://github.com/user-attachments/assets/9aa87a57-6172-4f2e-95e5-2b7da3d49042" />
+
 
 
 >If you find this research helpful, please leave a **Star (⭐)** to support my independent work! Your support helps sustain this research outside traditional institutions.
