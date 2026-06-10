@@ -4,6 +4,13 @@
 
 Preprint and data for non-linear spectral structures without complexification (MSC 47J10)
 
+### Theoretical Breakthrough: 
+Handling Non-Closed Hierarchical Coefficients
+One of the greatest challenges in non-Markovian nonlinear dynamics is the **Moment Closure Problem** (infinite hierarchy of coefficients). 
+
+Instead of using artificial truncation or forced Markovian approximations to capture a closed-form solution, this framework embraces the **true non-closed hierarchical nature** of the system. By projecting these infinite-dimensional relationships onto a **Step-indexed Direct Mapping** space, the exact propagation of hierarchical coefficients is recursively computed down the Excel rows using simple natural number inputs (1, 2, 3...).
+
+
 ## Abstract
 
 This paper formalizes a nonlinear spectral structure in which irreversible crystallization occurs through stage-indexed direct mappings, based on a discrete process indexed by natural number stage $n$ and internal variable $x$, satisfying non-unitary, non-overlapping, and non-inclusion conditions.
