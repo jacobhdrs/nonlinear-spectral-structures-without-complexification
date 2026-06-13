@@ -10,6 +10,14 @@ One of the greatest challenges in non-Markovian nonlinear dynamics is the **Mome
 
 Instead of using artificial truncation or forced Markovian approximations to capture a closed-form solution, this framework embraces the **true non-closed hierarchical nature** of the system. By projecting these infinite-dimensional relationships onto a **Step-indexed Direct Mapping** space, the exact propagation of hierarchical coefficients is recursively computed down the Excel rows using simple natural number inputs (1, 2, 3...).
 
+### Future Roadmap & Open Source Plans
+- [x] Complete the theoretical manuscript and publish on Zenodo (Preprint)
+- [ ] Peer-review and formal publication (In progress)
+- [ ] Develop and release the official Python/MATLAB simulation toolkit based on this paper
+- [ ] Share numerical verification datasets
+
+**Peer Review Status**: Currently undergoing rigorous independent peer review by world-leading authorities in spectral theory and mathematical analysis (including distinguished faculty members and chair professors from top-tier US and European universities).
+
 
 ## Abstract
 
