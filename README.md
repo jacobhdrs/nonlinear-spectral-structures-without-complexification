@@ -4,6 +4,10 @@
 
 Preprint and data for non-linear spectral structures without complexification (MSC 47J10)
 
+
+[🚨 VERSION 2 WILL BE RELEASED — COMPREHENSIVE UPDATE]
+Please note that this initial preprint (V1) has been substantially revised. Version 2 features will be release.
+
 ### Theoretical Breakthrough: 
 Handling Non-Closed Hierarchical Coefficients
 One of the greatest challenges in non-Markovian nonlinear dynamics is the **Moment Closure Problem** (infinite hierarchy of coefficients). 
